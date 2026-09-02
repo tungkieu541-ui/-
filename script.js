@@ -1,6 +1,6 @@
 javascript:(function(){
   'use strict';
-  const NETLIFY_URL = '<script src="https://gist.github.com/tungkieu541-ui/8240d629a3bdfc558cfdbe25c1c1e0a3
+  const NETLIFY_URL = '<https://github.com/tungkieu541-ui/lap-tien/blob/main/index.html
   const patched = new WeakSet();
   let redirecting = false;
 
